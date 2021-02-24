@@ -2,7 +2,7 @@
 
 ### Hi 👋🏾, welcome to my GitHub 🧐
 
-I'm a programmer in training who likes to learn new things!
+I'm a programmer in training who likes to learn new things!</br>
 I'm still looking for my favorite area, so don't notice if it is still very empty here ....
 
 <!--
