@@ -1,4 +1,9 @@
-### Hi there 👋
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maicon-douglas-marcelino-681403163/)](https://www.linkedin.com/in/maicon-douglas-marcelino-681403163/)
+
+### Hi 👋🏾, welcome to my GitHub 🧐
+
+I'm a programmer in training who likes to learn new things!
+I'm still looking for my favorite area, so don't notice if it is still very empty here ....
 
 <!--
 **kingurigu/kingurigu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
